@@ -6,6 +6,7 @@ Here we  perform simple CRUD operations on the database
 Reading, writing to, as well deleting from the database
 
 For ease of usage, use the following command in your shell(terminal):
+    
     To post to the database:
         curl -X POST -H "Content-Type: application/json" -d '{"name":"Input_Name","gender":"Gender","age":00}' http://localhost:8080/user
     To get a single user, run the following command:
