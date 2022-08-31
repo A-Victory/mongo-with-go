@@ -15,7 +15,7 @@ For ease of usage, use the following command in your shell(terminal):
     To get a list of all users, run the following command:
         curl  http://localhost:8080/user
     
-You cann also see the list of all users by going to *http://localhost:8080/user* on ur browsers
+You can also see the list of all users by going to *http://localhost:8080/user* on ur browsers
 
 This example was updated from Todd Mcleod's Golang-Web-Dev course to use more recent mongo drivers.
 Go check it out!!
